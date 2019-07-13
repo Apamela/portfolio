@@ -46,15 +46,19 @@ h3{
 }
 .top_one{
     width: 20%;
-    
+    font-size: 20px;
+    font-style: italic;
 }
 .top_two{
     width: 25%;
+    font-size: 20px;
+    font-style: italic;
 }
 .top_three{
     width:30%;
+    
 }
 .top>img{
-    width: 1000px; 
-    height: 400px;
+    width: 2000px; 
+    height: 500px;
 }
