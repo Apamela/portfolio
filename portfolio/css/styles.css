@@ -5,7 +5,15 @@
     width: 2000px;
     height: 1000px;
     font-style: oblique;
+    
 }
+.main>h2{
+text-align: right;
+padding:600px 50px 50px;
+font-size: 45px;
+color:skyblue;
+}
+
 .table{
     display: flex;
     flex-direction:row;
