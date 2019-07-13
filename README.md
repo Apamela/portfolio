@@ -5,6 +5,10 @@ this portfolio is describing my self an the project i did  by using the differen
 ## Setup/Installation Requirements
 * i use the html& css
 * use of google images and codes
+
+##link to live site on GitHub Pages
+ https://apamela.github.io/portfolio/
+
 ## Support and contact details
 phone number:+250780365718
 Email:pamelab.desire@gmail.com
