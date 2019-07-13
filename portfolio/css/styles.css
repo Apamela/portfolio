@@ -35,7 +35,19 @@ p{
     font-style: italic;
 }
 h3{
-    font-size: 50px;
+    font-size: 70px;
     text-align:  center;
     font-style: italic;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+  padding: 10px;
+  font-size: 30px;
+  justify-content: space-between;
+}
+.top>img{
+    width: 1000px; 
+    height: 400px;
 }
