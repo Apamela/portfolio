@@ -17,9 +17,9 @@ color:skyblue;
 .table{
     display: flex;
     flex-direction:row;
-    font-size: 25px;
     justify-content: space-between;
     font-style: italic;
+    
 
     
 }
@@ -42,11 +42,17 @@ h3{
 .top{
     display: flex;
     flex-direction: row;
-    font-size: 20px;
-  padding: 30px;
-  font-size: 30px;
-  justify-content: space-between;
-
+    justify-content:space-around;
+}
+.top_one{
+    width: 20%;
+    
+}
+.top_two{
+    width: 25%;
+}
+.top_three{
+    width:30%;
 }
 .top>img{
     width: 1000px; 
