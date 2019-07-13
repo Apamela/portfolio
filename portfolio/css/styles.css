@@ -2,9 +2,27 @@
 .main{
     background-image:url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80');
     background-size: cover;
-    width: 2g000px;
+    width: 2000px;
     height: 1000px;
 }
 body{
     background-color: rgb(124, 110, 110);
+}
+.table{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+    padding: 70px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+h1{
+    text-align: center;
+    
+
 }
