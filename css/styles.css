@@ -73,9 +73,33 @@ h3{
 }
 h3{
     position: relative;
-    bottom: 700px ;
+    bottom: 600px ;
     color: grey;
 }
 h2{
     text-align: center;
+}
+nav{
+    margin: 10px 10px;
+    padding-left: 5px;
+    margin-bottom: 60px;
+}
+nav>ul{
+    text-align: center;
+}
+nav>ul>li{
+    display: inline-block;
+}
+nav>ul>li>a{
+    text-transform: uppercase;
+    font-style: oblique;
+}
+nav>ul>li>a:hover{
+    color:grey;
+}
+.nav{
+    background-color: skyblue;
+}
+body{
+    background-color: skyblue;
 }
